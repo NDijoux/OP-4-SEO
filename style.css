@@ -1058,6 +1058,7 @@ h5 {
 
 div.col-sm-4 a {
     padding: 48px 48px 48px 0px;
+    color: #FFFFFF !important;
 }
 
 .social {
@@ -1070,3 +1071,7 @@ div.col-sm-4 a {
  .tap2 {
     padding: 24px 0px 24px 0px
  }
+
+.title-size {
+    max-width: 360px;
+}
